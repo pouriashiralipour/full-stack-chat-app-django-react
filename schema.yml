@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: djChat
+  version: 1.0.0
+  description: a simple chat app
+paths: {}
+components: {}

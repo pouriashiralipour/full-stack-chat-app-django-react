@@ -9,6 +9,9 @@ djangorestframework = "*"
 python-dotenv = "*"
 black = "*"
 flake8 = "*"
+drf-spectacular = "*"
+django-debug-toolbar = "*"
+pillow = "*"
 
 [dev-packages]
 
